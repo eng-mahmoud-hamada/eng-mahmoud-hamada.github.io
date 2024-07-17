@@ -66422,7 +66422,7 @@ $2(a,b){return A.bX(null,this.a.d*0.03,null)},
 $S:411}
 A.F2.prototype={
 S(a){var s=null,r=this.d,q=this.c,p=q*0.2,o=r*0.2,n=t.F
-return A.e_(s,A.qP(A.nf(A.a([A.dt("What I am capabie of?",A.dv(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.h6,s,s,!0,s,s,s,s,s,s,s,s),s),A.a8y(A.jT(A.a([A.bX(A.ew("assets/images/Flutter.png",B.bt),o,p),A.bX(A.ew("assets/images/Dart_logo.png",B.bt),o,p),A.bX(A.ew("assets/images/github-logo.png",B.bt),o,p),A.bX(A.ew("assets/images/firebase_logo.png",B.bt),o,p)],n),B.pD,B.aB)),A.bX(s,r*0.02,s),A.a8y(A.jT(A.a([A.bX(A.ew("assets/images/html.png",B.bt),o,p),A.bX(A.ew("assets/images/css.jpeg",B.bt),o,p),A.bX(A.ew("assets/images/jslogo.png",B.bt),o,p)],n),B.hI,B.aB))],n),B.bz,B.bj,B.aB),s,s),B.r,s,s,s,s,r*0.3,s,s,s,s,s,q)}}
+return A.e_(s,A.qP(A.nf(A.a([A.dt("What I am capabie of?",A.dv(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.h6,s,s,!0,s,s,s,s,s,s,s,s),s),A.a8y(A.jT(A.a([A.bX(A.ew("assets/images/Flutter.png",B.bt),o,p),A.bX(A.ew("assets/images/dart_logo.png",B.bt),o,p),A.bX(A.ew("assets/images/github-logo.png",B.bt),o,p),A.bX(A.ew("assets/images/firebase_logo.png",B.bt),o,p)],n),B.pD,B.aB)),A.bX(s,r*0.02,s),A.a8y(A.jT(A.a([A.bX(A.ew("assets/images/html.png",B.bt),o,p),A.bX(A.ew("assets/images/css.jpeg",B.bt),o,p),A.bX(A.ew("assets/images/jslogo.png",B.bt),o,p)],n),B.hI,B.aB))],n),B.bz,B.bj,B.aB),s,s),B.r,s,s,s,s,r*0.3,s,s,s,s,s,q)}}
 A.fF.prototype={
 F(){return"SampleItem."+this.b}}
 A.a7q.prototype={
